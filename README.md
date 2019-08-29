@@ -1,2 +1,1 @@
-# linux-wps
-wps的linux版本
+https://linux.wps.cn/
